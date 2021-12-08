@@ -8,12 +8,12 @@ licence: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. [Введение](../introduction.md)
-2. [git add](../add.md)
-3. [git status](../status.md)
-4. [git commit](../commit.md)
-5. [git reset](../reset.md)
-6. [git revert](../revert.md)
+1. [Введение](./introduction.md)
+2. [git add](./add.md)
+3. [git status](./status.md)
+4. [git commit](./commit.md)
+5. [git reset](./reset.md)
+6. [git revert](./revert.md)
 
 ---
 
